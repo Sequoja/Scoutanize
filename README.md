@@ -1,0 +1,4 @@
+Scoutanize
+==========
+
+Helps scouts organize
